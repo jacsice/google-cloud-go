@@ -1,10 +1,11 @@
-module cloud.google.com/go/vertexai
+module github.com/jacsice/google-cloud-go/vertexai
 
 go 1.23.0
 
 require (
 	cloud.google.com/go v0.118.3
 	cloud.google.com/go/aiplatform v1.74.0
+	cloud.google.com/go/vertexai v0.13.3
 	github.com/google/go-cmp v0.7.0
 	golang.org/x/text v0.22.0
 	google.golang.org/api v0.224.0
